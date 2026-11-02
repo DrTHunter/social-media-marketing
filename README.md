@@ -13,9 +13,15 @@ Service page for my social media marketing work: what I build, what the client p
 
 The client's job is to answer the phone. That's where the sale happens.
 
-## Case study
+## Blog posts for SEO and conversion
+
+Each post answers something people search for, gets reused as social posts, links back to the site, and ends with one tracked call to action. The page uses the [Teton Angel blog](https://www.tetonangel.com/blog/) as the worked example.
+
+## Case study and portfolio
 
 [Teton Angel](https://www.tetonangel.com) – full book launch for Roland Hunter's novel: website and blog, promo video, Facebook and Instagram pages, story-driven posts.
+
+Also featured: [OrionForge](https://www.orionforge.chat), [AudioOasis](https://www.audiooasis.app), [Flowmodoro](https://drthunter.github.io/Flowmodoro/), [Orion Home Search](https://drthunter.github.io/Orion-Home-Search/) and [GitHub](https://github.com/DrTHunter).
 
 ## Editing
 
