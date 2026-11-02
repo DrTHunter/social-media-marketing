@@ -21,7 +21,7 @@ Each post answers something people search for, gets reused as social posts, link
 
 [Teton Angel](https://www.tetonangel.com) – full book launch for Roland Hunter's novel: website and blog, promo video, Facebook and Instagram pages, story-driven posts.
 
-Also featured: [OrionForge](https://www.orionforge.chat), [AudioOasis](https://www.audiooasis.app), [Flowmodoro](https://drthunter.github.io/Flowmodoro/), [Orion Home Search](https://drthunter.github.io/Orion-Home-Search/) and [GitHub](https://github.com/DrTHunter).
+Also featured: [OrionForge](https://www.orionforge.chat), [AudioOasis](https://www.audiooasis.app), [Flowmodoro](https://drthunter.github.io/Flowmodoro/) and [GitHub](https://github.com/DrTHunter).
 
 ## Editing
 

@@ -266,7 +266,7 @@ h3 { font-size: 1.2rem; }
 .case img { border-radius: 16px; box-shadow: var(--shadow); width: 100%; aspect-ratio: 1200 / 630; object-fit: cover; }
 .case .ticks { margin-top: 1rem; }
 @media (max-width: 860px) { .case { grid-template-columns: 1fr; } }
-.work-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.work-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
 .work-card {
   display: flex; flex-direction: column; gap: 4px; text-decoration: none; color: var(--ink);
   background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px;
