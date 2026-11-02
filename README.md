@@ -9,7 +9,9 @@ Service page for my social media marketing work: what I build, what the client p
 1. **Website** – mobile-first site, tap-to-call, quote form, SEO, blog posts, analytics, custom domain.
 2. **Social pages** – Facebook and Instagram business pages branded to match, reviews on, Meta Business Suite and ad account owned by the client.
 3. **Prime the pages** – about a month of posts (before-and-afters, finished jobs, tips, story posts, reviews) on a calendar before any ads run.
-4. **Ad campaign** – roughly $10/day. Boost the posts that already perform, run several ad versions at once, cut the losers every week or two, put the budget behind the winners, and rotate fresh ads in. Monthly plain-English report.
+4. **Ad campaigns** – roughly $10/day on Facebook and Instagram. Boost the posts that already perform, run several ad versions at once, cut the losers every week or two, put the budget behind the winners, and rotate fresh ads in. Optional Google search and call ads on top, budgeted separately after checking keyword costs. Monthly plain-English report.
+
+Three levels: **Organic** ($0 ad spend: site, SEO blog, pages, Google Business Profile), **Organic + social ads** (~$10/day), and **Organic + social + Google** ($10/day plus a Google budget).
 
 The client's job is to answer the phone. That's where the sale happens.
 

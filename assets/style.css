@@ -184,6 +184,25 @@ h3 { font-size: 1.2rem; }
 }
 @media (max-width: 480px) { .blog-loop { grid-template-columns: 1fr; } }
 
+.free-callout {
+  display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: baseline;
+  background: var(--good-soft); border: 1px solid color-mix(in srgb, var(--good) 40%, transparent);
+  border-radius: 14px; padding: 16px 20px; margin: -1rem 0 24px;
+}
+.free-callout strong { color: var(--good); font-size: 1.05rem; }
+.free-callout span { color: var(--ink); }
+
+/* channels */
+.compare { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+.compare .work-tag { margin: 0 0 4px; }
+.tiers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.tier { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 22px; box-shadow: var(--shadow); }
+.tier p { margin: 0; color: var(--muted); }
+.tier .budget-big { font-size: 1.8rem; }
+.tier-what { margin-bottom: 14px !important; }
+.tier-top { border: 2px solid var(--accent); }
+@media (max-width: 860px) { .compare, .tiers { grid-template-columns: 1fr; } }
+
 /* campaign */
 .stage-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
 .stage-tabs button {
